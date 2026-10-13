@@ -34,9 +34,9 @@ export default function Compatibilidade() {
 
   return (
     <section id="compatibilidade" className="bg-slate-50 border-t border-slate-200">
-      <div className="max-w-[1000px] mx-auto px-20 lg:px-20 py-20 lg:py-28">
+      <div className="max-w-[1000px] mx-auto px-6 lg:px-20 py-20 lg:py-28">
       <div
-        className="border border-slate-400 rounded-3xl shadow-xl p-10 lg:p-14"
+        className="border border-slate-400 rounded-3xl shadow-xl p-6 lg:p-14"
         style={{
           background: `
             radial-gradient(700px 500px at 0% 0%, rgba(191,219,254,0.35), transparent),
