@@ -10,7 +10,7 @@ export default function ContatoCTA() {
       />
       <div className="relative max-w-[1600px] mx-auto px-6 lg:px-10 py-24 lg:py-28 text-center">
         <span className="inline-block text-xs font-bold tracking-[0.2em] uppercase bg-spark/15 text-spark px-4 py-2 rounded-full mb-6">Fale conosco</span>
-        <h2 className="font-tech text-4xl lg:text-5xl font-bold mb-5">Fale com a {CONTATO.distribuidor}</h2>
+        <h2 className="font-tech text-2xl md:text-4xl lg:text-5xl font-bold mb-5">Fale com a {CONTATO.distribuidor}</h2>
         <p className="text-slate-300 text-lg mb-12 max-w-lg mx-auto">
           Distribuidor oficial BlueCharge no Brasil. Compre com garantia oficial, suporte técnico e pronta entrega.
         </p>

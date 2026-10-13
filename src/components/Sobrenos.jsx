@@ -28,7 +28,7 @@ export default function Sobrenos() {
               <span className="inline-block text-xs font-bold tracking-[0.2em] uppercase text-brand mb-5">
                 Sobre Nós
               </span>
-              <h2 className="font-tech text-3xl lg:text-4xl font-bold text-slate-900 mb-6 leading-tight">
+              <h2 className="font-tech text-2xl md:text-3xl lg:text-4xl font-bold text-slate-900 mb-6 leading-tight">
                 Quem é a BlueCharge do Brasil
               </h2>
               <p className="text-slate-600 text-lg leading-relaxed">

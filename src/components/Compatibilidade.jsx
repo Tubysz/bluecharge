@@ -48,7 +48,7 @@ export default function Compatibilidade() {
         }}
       >
         
-        <h2 className="font-tech text-4xl lg:text-5xl font-bold text-slate-900 mb-4">
+        <h2 className="font-tech text-2xl md:text-4xl lg:text-5xl font-bold text-slate-900 mb-4">
           Qual carregador serve pro seu carro?
         </h2>
         <p className="text-slate-600 text-lg mb-10 max-w-2xl">

@@ -10,7 +10,7 @@ export default function Hero() {
         <div>
           <LogoWordmark className="h-16 md:h-20 lg:h-24 mb-8" />
 
-          <h1 className="font-tech text-4xl md:text-5xl lg:text-[3.25rem] font-bold text-slate-900 leading-[1.1] mb-7 max-w-xl">
+          <h1 className="font-tech text-3xl md:text-5xl lg:text-[3.25rem] font-bold text-slate-900 leading-[1.1] mb-7 max-w-xl">
             Carregadores portáteis para veículos elétricos, feitos para o padrão brasileiro.
           </h1>
 
